@@ -1,2 +1,4 @@
 # pop-up-whatsapp
-a simple whatsapp pop up
+a modifiable pop up to use with social networks
+## how to use the pop up
+
